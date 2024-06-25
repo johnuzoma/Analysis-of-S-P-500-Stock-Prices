@@ -1,7 +1,7 @@
 ### Executive summary
 This is a project where I used SQL to analyse S&P 500 stock prices. 
-The database I used was SQL Server 2019 and developmentr environment was SQL Server Management Studio (SSMS).
-Techniques used include: subqueries, joins, aggregations, common table expressions, numeric and strring functions.
+The database I used was SQL Server 2019 and the development environment was SQL Server Management Studio (SSMS).
+Techniques I used include (but not limited to): subqueries, joins, aggregations, common table expressions, numeric and string functions.
 
 ### Business questions
 1. Which date in the sample saw the largest overall trading volume?
