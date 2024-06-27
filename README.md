@@ -4,6 +4,7 @@ The database I used was SQL Server 2019 and the development environment was SQL 
 Techniques I used include (but not limited to): subqueries, joins, aggregations, common table expressions, numeric and string functions.
 
 ### Business questions
+My analysis provided answers to these questions:
 1. Which date in the sample saw the largest overall trading volume?
 2. On that date, which two stocks were traded most?
 3. On which day of the week does volume tend to be highest?
@@ -12,7 +13,7 @@ Techniques I used include (but not limited to): subqueries, joins, aggregations,
 6. If you could go back in time and invest in one stock from 1/2/2014 - 12/29/2017, which would you choose?
 7. What % gain would you realize?
 
-### Insights from analysis
+### Insights
 1. The largest trading volume occurred on Feb 24, 2014.
 2. On that date, Verizon and Bank of America stocks were traded most with volumes of approximately 618 million and 103 million respectively.
 3. On average, Friday was the weekday with the highest volume.
