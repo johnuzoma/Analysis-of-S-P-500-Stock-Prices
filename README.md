@@ -18,6 +18,11 @@ My analysis provided answers to these questions:
 ### ETL Pipeline
 <img width="338" alt="image" src="https://github.com/user-attachments/assets/2728a69b-3b2d-42ad-8d72-464625f65ea2">
 
+### Analysis
+The images of SQL code can be seen on the left-hand side. They are named "Q1.png" for Question 1, "Q2.png" for Question 2 etc.
+
+The resultset of the code is shown beneath the code in each image.
+
 ### Insights
 1. The largest trading volume occurred on Feb 24, 2014.
 2. On that date, Verizon and Bank of America stocks were traded most with volumes of approximately 618 million and 103 million respectively.
@@ -26,7 +31,3 @@ My analysis provided answers to these questions:
 5. The Amazon stock had the most volatility (~86) on June 9, 2017.
 6. If I could go back in time between Jan-02 2014 and Dec-29 2017, I would invest in Booking Holdings (PCLN) because it had the highest gain for the lowest volatility.
 7. I would have realised a 50% return on my investment if I had invested in Booking Holdings.
-
-### Solution resources
-The images of SQL code can be seen above. They are named "Q1.png" for Question 1, "Q2.png" for Question 2 etc.
-The resultset of the code is shown beneath the code in each image.
