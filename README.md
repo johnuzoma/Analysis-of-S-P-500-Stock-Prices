@@ -15,6 +15,9 @@ My analysis provided answers to these questions:
 6. If you could go back in time and invest in one stock from 1/2/2014 - 12/29/2017, which would you choose?
 7. What % gain would you realize?
 
+### ETL Pipeline
+<img width="338" alt="image" src="https://github.com/user-attachments/assets/2728a69b-3b2d-42ad-8d72-464625f65ea2">
+
 ### Insights
 1. The largest trading volume occurred on Feb 24, 2014.
 2. On that date, Verizon and Bank of America stocks were traded most with volumes of approximately 618 million and 103 million respectively.
