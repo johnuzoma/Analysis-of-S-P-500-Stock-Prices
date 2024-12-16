@@ -1,9 +1,6 @@
 ### Executive summary
 This is a project where I used SQL to analyse S&P 500 stock prices. 
-
-The database I used was SQL Server 2019 and the development environment was SQL Server Management Studio (SSMS).
-
-Techniques I used include (but not limited to): subqueries, joins, aggregations, common table expressions, numeric and string functions.
+Techniques I used include (but not limited to): data ingestion, transformation, migration, subqueries, joins, aggregations, common table expressions, numeric and string functions.
 
 ### Business questions
 My analysis provided answers to these questions:
@@ -15,13 +12,15 @@ My analysis provided answers to these questions:
 6. If you could go back in time and invest in one stock from 1/2/2014 - 12/29/2017, which would you choose?
 7. What % gain would you realize?
 
-### ETL Pipeline
+### Data Pipeline
 <img width="338" alt="image" src="https://github.com/user-attachments/assets/2728a69b-3b2d-42ad-8d72-464625f65ea2">
+
+I ingested and transformed the data in MS Fabric using Dataflows and I migrated the data from Fabric to SQL Server using Copy activities.
 
 ### Analysis
 The images of SQL code can be seen on the left-hand side. They are named "Q1.png" for Question 1, "Q2.png" for Question 2 etc.
 
-The resultset of the code is shown beneath the code in each image.
+The resultset is shown beneath the code in each image.
 
 ### Insights
 1. The largest trading volume occurred on Feb 24, 2014. [Link to query](https://github.com/johnuzoma/Analysis-of-S-P-500-Stock-Prices/blob/main/Q1.png).
