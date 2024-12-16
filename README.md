@@ -1,5 +1,5 @@
 ### Executive summary
-This is a project where I used SQL to analyse S&P 500 stock prices. 
+This is a project where I analysed S&P 500 stock prices. 
 Techniques I used include (but not limited to): data ingestion, transformation, migration, subqueries, joins, aggregations, common table expressions, numeric and string functions.
 
 ### Business questions
